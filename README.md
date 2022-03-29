@@ -1,4 +1,4 @@
-# Flutter Slicing Odro
+# Flutter Slicing Ordo
 
 ## Requirement Device
 - Operation System : Windows
